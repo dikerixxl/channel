@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,M+ LIGA DE CAMPEONES
+#EXTINF:-1,tvg-logo="https://www.dropbox.com/s/qp5asrc16rz16x7/LigadeCampeones.png?dl=0",M+ LIGA DE CAMPEONES
 http://154.54.220.247:51323/play/a03c/index.m3u8
 
 
