@@ -1,20 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,M+LCAMPEONES ES-ES
+#EXTINF:-1,tvg-id="1" tvg-logo="https://www.dropbox.com/s/qp5asrc16rz16x7/LigadeCampeones.png?dl=0" group-title="Deportes" audio-track="spa",M+ LIGA DE CAMPEONES
 http://154.54.220.247:51323/play/a03c/index.m3u8
-#EXTINF:-1,DAZN LaLigaHD
-http://45.135.194.113:8003/play/a024
-#EXTINF:-1,M+LCAMPEONES
-http://45.135.194.113:8004/play/a024
-#EXTINF:-1,M+ LaLiga HD
-http://45.135.194.113:8001/play/a025
-#EXTINF:-1,Liga SmartBank
-http://45.135.194.113:8006/play/a026
-#EXTINF:-1,Liga SmartBank 2
-http://45.135.194.113:8006/play/a024
-#EXTINF:-1,Liga SmartBank 3
-http://45.135.194.113:8006/play/a025
-#EXTINF:-1,LigaSmartBank2HD
-http://45.135.194.113:8005/play/a025
-#EXTINF:-1,LigaSmartBankHD
-http://45.135.194.113:8005/play/a024
