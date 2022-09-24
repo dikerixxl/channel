@@ -8,3 +8,6 @@ http://864926265193290348.nicetin.xyz:80/live/fe08178/6389351902/290348.ts
 
 #EXTINF:-1, tvg-id="3" tvg-logo="https://www.dropbox.com/s/bhn7xqexvv51obp/%23Vamos.jpg?dl=0" group-title="Deportes" audio-track="spa" , EUROSPORT 2
 http://864926265193290351.nicetin.xyz:80/live/fe08178/6389351902/290351.ts
+
+#EXTINF:-1,M+LCAMPEONES ES-ES
+http://154.54.220.247:51323/play/a03c/index.m3u8
