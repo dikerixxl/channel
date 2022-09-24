@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="1" tvg-logo="https://www.dropbox.com/s/btlfy612dmiqioo/Vamos.jpg?dl=0" group-title="Deportes" audio-track="spa" ,#VAMOS
+http://864926265193321071.nicetin.xyz:80/live/fe08178/6389351902/321071.ts
+
+#EXTINF:-1, tvg-id="2" tvg-logo="https://www.dropbox.com/s/bhn7xqexvv51obp/Eurosport1.jpg?dl=0" group-title="Deportes" audio-track="spa" , EUROSPORT 1
+http://864926265193290348.nicetin.xyz:80/live/fe08178/6389351902/290348.ts
+
+#EXTINF:-1, tvg-id="3" tvg-logo="https://www.dropbox.com/s/bhn7xqexvv51obp/%23Vamos.jpg?dl=0" group-title="Deportes" audio-track="spa" , EUROSPORT 2
+http://864926265193290351.nicetin.xyz:80/live/fe08178/6389351902/290351.ts
