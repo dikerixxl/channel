@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,#Vamos
-http://685919265338321072.nicetin.xyz:80/live/fe08178/6389351902/321072.ts
-
 #EXTINF:-1,M+ LaLiga
 http://154.54.220.247:51323/play/a032/index.m3u8
 
@@ -29,9 +26,3 @@ http://154.54.220.247:51323/play/a036/index.m3u8
 
 #EXTINF:-1,LigaSmartBank2
 http://154.54.220.247:51323/play/a037/index.m3u8
-
-#EXTINF:-1,Eurosport1
-http://685919265338290349.nicetin.xyz:80/live/fe08178/6389351902/290349.ts
-
-#EXTINF:-1,Eurosport2
-http://685919265338290352.nicetin.xyz:80/live/fe08178/6389351902/290352.ts
