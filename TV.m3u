@@ -2,3 +2,6 @@
 
 #EXTINF:-1,CMM
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+
+#EXTINF:-1,TOROS
+http://154.54.220.247:51323/play/a03e/index.m3u8
