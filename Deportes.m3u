@@ -9,10 +9,10 @@ http://154.54.220.247:51323/play/a032/index.m3u8
 #EXTINF:-1,M+ Liga de campeones
 http://154.54.220.247:51323/play/a03c/index.m3u8
 
-#EXTINF:-1,DAZN 1
+#EXTINF:-1,DAZN1
 http://154.54.220.247:51323/play/a03a/index.m3u8
 
-#EXTINF:-1,DAZN 2
+#EXTINF:-1,DAZN2
 http://154.54.220.247:51323/play/a03b/index.m3u8
 
 #EXTINF:-1,DAZN LaLiga
