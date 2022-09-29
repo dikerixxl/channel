@@ -1,34 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1,M+ LaLiga
+#EXTINF:-1,#VAMOS (Op.1)
+http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE3Db3eVF0pNFZcTbnNKlrE0J1kL-IFoLFSzlWrWbGioh
+
+#EXTINF:-1,#VAMOS (Op.2)
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/967
+
+#EXTINF:-1,M+ LaLiga (Op.1)
 http://154.54.220.247:51323/play/a032/index.m3u8
+
+#EXTINF:-1,M+ LaLiga (Op.2)
+http://80.78.128.1:65437/play/UK_LALIGA_HD
 
 #EXTINF:-1,M+ Liga de campeones
 http://154.54.220.247:51323/play/a03c/index.m3u8
 
-#EXTINF:-1,DAZN1
+#EXTINF:-1,DAZN 1
 http://154.54.220.247:51323/play/a03a/index.m3u8
 
-#EXTINF:-1,DAZN2
+#EXTINF:-1,DAZN 2 (Op.1)
 http://154.54.220.247:51323/play/a03b/index.m3u8
 
-#EXTINF:-1,DAZN LaLiga
+#EXTINF:-1,DAZN 2 (Op.2)
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310857
+
+#EXTINF:-1,DAZN 3
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310858
+
+#EXTINF:-1,DAZN 4
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310859
+
+#EXTINF:-1,DAZN LaLiga (Op.1)
 http://154.54.220.247:51323/play/a030/index.m3u8
+
+#EXTINF:-1,DAZN LaLiga (Op.2)
+http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632vd09qT79wPMmMt1K-UqyR
 
 #EXTINF:-1,DAZN LaLiga2
 http://154.54.220.247:51323/play/a034/index.m3u8
 
-#EXTINF:-1,DAZN F1
+#EXTINF:-1,DAZN F1 (Op.1)
 http://154.54.220.247:51323/play/a03d/index.m3u8
 
-#EXTINF:-1,LigaSmartBank
+#EXTINF:-1,DAZN F1 (Op.2)
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/935
+
+#EXTINF:-1,DAZN F1 4K
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/386340
+
+#EXTINF:-1,LigaSmartBank (Op.1)
 http://154.54.220.247:51323/play/a036/index.m3u8
+
+#EXTINF:-1,LigaSmartBank (Op.2)
+http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632hHE6mLfcbSDYLE1g75II1
+
+#EXTINF:-1,LigaSmartBank (Op.3)
+http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8633cBxkqyTbG2MxPJJINNuvG
 
 #EXTINF:-1,LigaSmartBank2
 http://154.54.220.247:51323/play/a037/index.m3u8
 
-#EXTINF:-1,BeIN ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1,LaLiga TV BAR
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/970
 
-#EXTINF:-1,ESPN 4
-http://45.5.119.202:8000/play/a029/index.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310854
+
+#EXTINF:-1,EUROSPORT 2
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310855
+
+#EXTINF:-1, M+ GOLF
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/933
