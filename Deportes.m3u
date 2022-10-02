@@ -35,6 +35,11 @@ http://372501899102165398.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/165398.ts
 #EXTINF:-1 tvg-id="M+ LaLiga Multi 3 (Op.1)" tvg-name="M+ LaLiga Multi 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR+",M+ LaLiga Multi 3 HD
 http://372501899102165400.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/165400.ts
 
+####  MOVISTAR LIGA DE CAMPEONES  ###################################################################################################################################
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones (Op.1)" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR+",M+ Liga de Campeones HD
+http://45.135.194.113:8004/play/a024
+
 ####  MOVISTAR DEPORTES  ############################################################################################################################################
 
 #EXTINF:-1 tvg-id="M+ DEPORTES 1 (Op.1)" tvg-name="M+ DEPORTES 1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png" group-title="MOVISTAR+",M+ DEPORTES 1 FHD
@@ -149,8 +154,17 @@ http://372501899102290353.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/290353.ts
 
 ####  ESPN  #########################################################################################################################################################
 
+#EXTINF:-1 tvg-id="ESPN (Op.1)" tvg-name="ESPN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn-us.svg" group-title="DEPORTES",ESPN HD
+http://38.143.137.221:8000/LA81/index.m3u8
+#EXTINF:-1 tvg-id="ESPN (Op.2)" tvg-name="ESPN SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn-us.svg" group-title="DEPORTES",ESPN SD
+http://160.20.164.171:8001/play/a09c/index.m3u8
+#EXTINF:-1 tvg-id="ESPN (Op.3)" tvg-name="ESPN SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn-us.svg" group-title="DEPORTES",ESPN SD
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 2 (Op.1)" tvg-name="ESPN 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn-2-us.svg" group-title="DEPORTES",ESPN 2 HD
 http://372501899102290672.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/290672.ts
+#EXTINF:-1 tvg-id="ESPN 2 (Op.2)" tvg-name="ESPN 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn-2-us.svg" group-title="DEPORTES",ESPN 2 HD
+http://160.20.164.171:8001/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 (Op.1)" tvg-name="ESPN 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="DEPORTES",ESPN 3 HD
 http://200.24.132.99:8000/play/a02w
@@ -161,6 +175,13 @@ http://160.20.164.171:8001/play/a04l/index.m3u8
 http://45.5.119.202:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4 (Op.2)" tvg-name="ESPN 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn-4-us.svg" group-title="DEPORTES",ESPN 4 HD
 http://190.60.37.69:8015/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN EXTRA (Op.1)" tvg-name="ESPN EXTRA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_extra_lam.png" group-title="DEPORTES OTROS IDIOMAS",ESPN EXTRA HD
+http://38.143.137.221:8000/LA78/index.m3u8
+#EXTINF:-1 tvg-id="ESPN EXTRA (Op.2)" tvg-name="ESPN EXTRA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_extra_lam.png" group-title="DEPORTES OTROS IDIOMAS",ESPN EXTRA HD
+http://160.20.164.171:8001/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="ESPN EXTRA (Op.3)" tvg-name="ESPN EXTRA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_extra_lam.png" group-title="DEPORTES OTROS IDIOMAS",ESPN EXTRA HD
+http://45.5.119.202:8000/play/a032/index.m3u8
 
 ####  FOX  ##########################################################################################################################################################
 
@@ -178,7 +199,7 @@ http://45.71.185.142:8500/play/a01o
 #EXTINF:-1 tvg-id="FOX 3 (Op.3)" tvg-name="FOX 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DEPORTES",FOX 3 HD
 http://160.20.164.171:8001/play/a056/index.m3u8
 
-####  SPORT KLUB  ##############################################################
+####  SPORT KLUB  ###################################################################################################################################################
 
 #EXTINF:-1 tvg-id="SPORT KLUB 1 (Op.1)" tvg-name="SPORT KLUB 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_klub_rs_1.png" group-title="DEPORTES OTROS IDIOMAS",SPORT KLUB 1 HD
 http://46.29.169.15:4001/play/a00e/index.m3u8
