@@ -1,76 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1,#VAMOS (Op.1)
+####  VAMOS  ########################################################################################################################################################
+
+#EXTINF:-1 tvg-id="#VAMOS (Op.1)" tvg-name="#VAMOS FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hashvamos-es.png" group-title="MOVISTAR+",#VAMOS FHD HEVC
+http://372501899102262409.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/262409.ts
+#EXTINF:-1 tvg-id="#VAMOS (Op.2)" tvg-name="#VAMOS FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hashvamos-es.png" group-title="MOVISTAR+",#VAMOS FHD
+http://372501899102321071.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/321071.ts
+#EXTINF:-1 tvg-id="#VAMOS (Op.3)" tvg-name="#VAMOS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hashvamos-es.png" group-title="MOVISTAR+",#VAMOS HD
+http://372501899102321072.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/321072.ts
+#EXTINF:-1 tvg-id="#VAMOS (Op.4)" tvg-name="#VAMOS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hashvamos-es.png" group-title="MOVISTAR+",#VAMOS HD
 http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE3Db3eVF0pNFZcTbnNKlrE0J1kL-IFoLFSzlWrWbGioh
+#EXTINF:-1 tvg-id="#VAMOS (Op.5)" tvg-name="#VAMOS SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hashvamos-es.png" group-title="MOVISTAR+",#VAMOS SD
+http://372501899102321073.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/321073.ts
 
-#EXTINF:-1,#VAMOS (Op.2)
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/967
+####  MOVISTAR LA LIGA  #############################################################################################################################################
 
-#EXTINF:-1,M+ LaLiga (Op.1)
-http://154.54.220.247:51323/play/a032/index.m3u8
-
-#EXTINF:-1,M+ LaLiga (Op.2)
+#EXTINF:-1 tvg-id="M+ LaLiga (Op.1)" tvg-name="M+ LaLiga FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR+",M+ LaLiga FHD HEVC
+http://372501899102309758.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/309758.ts
+#EXTINF:-1 tvg-id="M+ LaLiga (Op.2)" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR+",M+ LaLiga FHD
+http://372501899102262413.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/262413.ts
+#EXTINF:-1 tvg-id="M+ LaLiga (Op.3)" tvg-name="M+ LaLiga HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR+",M+ LaLiga HD
 http://80.78.128.1:65437/play/UK_LALIGA_HD
 
-#EXTINF:-1,M+ Liga de campeones
-http://154.54.220.247:51323/play/a03c/index.m3u8
 
-#EXTINF:-1,DAZN 1
-http://154.54.220.247:51323/play/a03a/index.m3u8
+####  DAZN  #########################################################################################################################################################
 
-#EXTINF:-1,DAZN 2 (Op.1)
-http://154.54.220.247:51323/play/a03b/index.m3u8
-
-#EXTINF:-1,DAZN 2 (Op.2)
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310857
-
-#EXTINF:-1,DAZN 3
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310858
-
-#EXTINF:-1,DAZN 4
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310859
-
-#EXTINF:-1,DAZN LaLiga (Op.1)
-http://154.54.220.247:51323/play/a030/index.m3u8
-
-#EXTINF:-1,DAZN LaLiga (Op.2)
+#EXTINF:-1 tvg-id="DAZN LaLiga (Op.1)" tvg-name="DAZN LaLiga FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DAZN",DAZN LaLiga FHD
+http://372501899102320782.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/320782.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga (Op.2)" tvg-name="DAZN LaLiga HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DAZN",DAZN LaLiga HD
+http://372501899102320781.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/320781.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga (Op.3)" tvg-name="DAZN LaLiga HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DAZN",DAZN LaLiga HD
 http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632vd09qT79wPMmMt1K-UqyR
+#EXTINF:-1 tvg-id="DAZN LaLiga (Op.4)" tvg-name="DAZN LaLiga SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DAZN",DAZN LaLiga SD
+http://372501899102320792.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/320792.ts
 
-#EXTINF:-1,DAZN LaLiga2
-http://154.54.220.247:51323/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 (Op.1)" tvg-name="DAZN LaLiga 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="DAZN",DAZN LaLiga 2 HD
+http://372501899102320779.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/320779.ts
 
-#EXTINF:-1,DAZN F1 (Op.1)
-http://154.54.220.247:51323/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="DAZN 1 (Op.1)" tvg-name="DAZN 1 FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-1-espana-es.png" group-title="DAZN",DAZN 1 FHD HEVC
+http://372501899102309747.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/309747.ts
+#EXTINF:-1 tvg-id="DAZN 1 (Op.2)" tvg-name="DAZN 1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-1-espana-es.png" group-title="DAZN",DAZN 1 FHD
+http://372501899102228384.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228384.ts
+#EXTINF:-1 tvg-id="DAZN 1 (Op.3)" tvg-name="DAZN 1 FHD (H265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-1-espana-es.png" group-title="DAZN",DAZN 1 FHD (H265)
+http://372501899102228390.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228390.ts
+#EXTINF:-1 tvg-id="DAZN 1 (Op.4)" tvg-name="DAZN 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-1-espana-es.png" group-title="DAZN",DAZN 1 HD
+http://372501899102228385.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228385.ts
+#EXTINF:-1 tvg-id="DAZN 1 (Op.5)" tvg-name="DAZN 1 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-1-espana-es.png" group-title="DAZN",DAZN 1 SD
+http://372501899102267267.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/267267.ts
 
-#EXTINF:-1,DAZN F1 (Op.2)
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/935
+#EXTINF:-1 tvg-id="DAZN 2 (Op.1)" tvg-name="DAZN 2 FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-2-espana-es.png" group-title="DAZN",DAZN 2 FHD HEVC
+http://372501899102309749.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/309749.ts
+#EXTINF:-1 tvg-id="DAZN 2 (Op.2)" tvg-name="DAZN 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-2-espana-es.png" group-title="DAZN",DAZN 2 FHD
+http://372501899102267268.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/267268.ts
+#EXTINF:-1 tvg-id="DAZN 2 (Op.3)" tvg-name="DAZN 2 FHD (H265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-2-espana-es.png" group-title="DAZN",DAZN 2 FHD (H265)
+http://372501899102228391.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228391.ts
+#EXTINF:-1 tvg-id="DAZN 2 (Op.4)" tvg-name="DAZN 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-2-espana-es.png" group-title="DAZN",DAZN 2 HD
+http://372501899102228388.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228388.ts
+#EXTINF:-1 tvg-id="DAZN 2 (Op.5)" tvg-name="DAZN 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-2-espana-es.png" group-title="DAZN",DAZN 2 SD
+http://372501899102228389.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228389.ts
 
-#EXTINF:-1,DAZN F1 4K
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/386340
+#EXTINF:-1 tvg-id="DAZN 3 (Op.1)" tvg-name="DAZN 3 FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3 FHD HEVC
+http://372501899102309750.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/309750.ts
+#EXTINF:-1 tvg-id="DAZN 3 (Op.2)" tvg-name="DAZN 3 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3 FHD
+http://372501899102228393.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228393.ts
+#EXTINF:-1 tvg-id="DAZN 3 (Op.3)" tvg-name="DAZN 3 FHD (H265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3 FHD (H265)
+http://372501899102228392.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228392.ts
+#EXTINF:-1 tvg-id="DAZN 3 (Op.4)" tvg-name="DAZN 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3 HD
+http://372501899102228394.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228394.ts
+#EXTINF:-1 tvg-id="DAZN 3 (Op.5)" tvg-name="DAZN 3 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3 SD
+http://372501899102228395.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228395.ts
 
-#EXTINF:-1,LigaSmartBank (Op.1)
-http://154.54.220.247:51323/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="DAZN 4 (Op.1)" tvg-name="DAZN 4 FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" group-title="DAZN",DAZN 4 FHD HEVC
+http://372501899102309748.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/309748.ts
+#EXTINF:-1 tvg-id="DAZN 4 (Op.2)" tvg-name="DAZN 4 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" group-title="DAZN",DAZN 4 FHD
+http://372501899102228397.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228397.ts
+#EXTINF:-1 tvg-id="DAZN 4 (Op.3)" tvg-name="DAZN 4 FHD (H265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" group-title="DAZN",DAZN 4 FHD (H265)
+http://372501899102228396.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228396.ts
+#EXTINF:-1 tvg-id="DAZN 4 (Op.4)" tvg-name="DAZN 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" group-title="DAZN",DAZN 4 HD
+http://372501899102228398.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228398.ts
+#EXTINF:-1 tvg-id="DAZN 4 (Op.5)" tvg-name="DAZN 4 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" group-title="DAZN",DAZN 4 SD
+http://372501899102228399.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/228399.ts
 
-#EXTINF:-1,LigaSmartBank (Op.2)
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632hHE6mLfcbSDYLE1g75II1
+#EXTINF:-1 tvg-id="DAZN F1 (Op.1)" tvg-name="DAZN F1 FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="DAZN",DAZN F1 FHD HEVC
+http://372501899102318564.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/318564.ts
+#EXTINF:-1 tvg-id="DAZN F1 (Op.2)" tvg-name="DAZN F1 FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="DAZN",DAZN F1 FHD HEVC
+http://372501899102309751.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/309751.ts
+#EXTINF:-1 tvg-id="DAZN F1 (Op.3)" tvg-name="DAZN F1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="DAZN",DAZN F1 FHD
+http://372501899102165418.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/165418.ts
+#EXTINF:-1 tvg-id="DAZN F1 (Op.4)" tvg-name="DAZN F1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="DAZN",DAZN F1 HD
+http://372501899102165419.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/165419.ts
+#EXTINF:-1 tvg-id="DAZN F1 (Op.5)" tvg-name="DAZN F1 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="DAZN",DAZN F1 SD
+http://372501899102165257.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/165257.ts
 
-#EXTINF:-1,LigaSmartBank (Op.3)
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8633cBxkqyTbG2MxPJJINNuvG
-
-#EXTINF:-1,LigaSmartBank2
-http://154.54.220.247:51323/play/a037/index.m3u8
-
-#EXTINF:-1,LaLiga TV BAR
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/970
-
-#EXTINF:-1,EUROSPORT 1
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310854
-
-#EXTINF:-1,EUROSPORT 2
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310855
-
-#EXTINF:-1, M+ GOLF
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/933
 
 
 ####  ESPN  ####################################################################
