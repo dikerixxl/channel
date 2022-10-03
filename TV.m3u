@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,CMM
+#EXTINF:-1 tvg-id="CMM (Op.1)" tvg-name="CMM SD" tvg-logo="https://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png" group-title="",CMM SD
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+
+#EXTINF:-1 tvg-id="TOROS (Op.1)" tvg-name="TOROS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toros-tv-es.png" group-title="",TOROS HD
+http://8dqfugq9.rostelekom.xyz/iptv/LUZ2UXZ65D857U/7061/index.m3u8
