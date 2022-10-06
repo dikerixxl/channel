@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U
+
 ####  VAMOS  ########################################################################################################################################################
 
 #EXTINF:-1 tvg-id="#VAMOS (Op.1)" tvg-name="#VAMOS FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hashvamos-es.png" group-title="MOVISTAR+",#VAMOS FHD HEVC
@@ -55,6 +57,11 @@ http://372501899102165459.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/165459.ts
 
 #EXTINF:-1 tvg-id="M+ DEPORTES 2" tvg-name="M+ DEPORTES 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png" group-title="MOVISTAR+",M+ DEPORTES 2 HD
 http://372501899102165460.nicesbot.xyz:80/live/CK3SJEDDLW/1287860924/165460.ts
+
+#---  PERÚ  ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="MOVISTAR Deportes (Op.1)" tvg-name="MOVISTAR Deportes HD (PER)" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/MovistarDeportesPeru.png" group-title="DEPORTES",MOVISTAR Deportes HD (PER)
+http://181.65.154.170:8000/play/a052/index.m3u8
 
 
 ####  LA LIGA SMARTBANK  ############################################################################################################################################
@@ -218,18 +225,27 @@ http://94.102.56.100:80/kralkerim/8TKLyJivVEA/63184
 
 ####  FOX  ##########################################################################################################################################################
 
-#EXTINF:-1 tvg-id="FOX 2 (Op.1)" tvg-name="FOX 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DEPORTES",FOX 2 HD
+#EXTINF:-1 tvg-id="FOX Sports 1 (Op.1)" tvg-name="FOX Sports 1 HD (ARG)" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports1.png" group-title="DEPORTES",FOX Sports 1 HD (ARG)
+http://181.65.154.170:8000/play/a07v/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX Sports 2 (Op.1)" tvg-name="FOX Sports 2 HD (ARG)" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports2.png" group-title="DEPORTES",FOX Sports 2 HD (ARG)
+http://186.3.216.78:9955/play/a123/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX Sports 3 (Op.1)" tvg-name="FOX Sports 3 HD (ARG)" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports3.png" group-title="DEPORTES",FOX Sports 3 HD (ARG)
+http://186.3.216.78:9955/play/a140/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX 2 (Op.1)" tvg-name="FOX 2 HD" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports2.png" group-title="DEPORTES",FOX 2 HD
 http://160.20.164.171:8001/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="FOX 2 (Op.2)" tvg-name="FOX 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DEPORTES",FOX 2 HD
+#EXTINF:-1 tvg-id="FOX 2 (Op.2)" tvg-name="FOX 2 HD" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports2.png" group-title="DEPORTES",FOX 2 HD
 http://45.71.185.142:8500/play/a01n
-#EXTINF:-1 tvg-id="FOX 2 (Op.3)" tvg-name="FOX 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png" group-title="DEPORTES",FOX 2 HD
+#EXTINF:-1 tvg-id="FOX 2 (Op.3)" tvg-name="FOX 2 HD" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports2.png" group-title="DEPORTES",FOX 2 HD
 http://160.20.164.171:8001/play/a055/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX 3 (Op.1)" tvg-name="FOX 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DEPORTES",FOX 3 HD
+#EXTINF:-1 tvg-id="FOX 3 (Op.1)" tvg-name="FOX 3 HD" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports3.png" group-title="DEPORTES",FOX 3 HD
 http://160.20.164.171:8001/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="FOX 3 (Op.2)" tvg-name="FOX 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DEPORTES",FOX 3 HD
+#EXTINF:-1 tvg-id="FOX 3 (Op.2)" tvg-name="FOX 3 HD" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports3.png" group-title="DEPORTES",FOX 3 HD
 http://45.71.185.142:8500/play/a01o
-#EXTINF:-1 tvg-id="FOX 3 (Op.3)" tvg-name="FOX 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png" group-title="DEPORTES",FOX 3 HD
+#EXTINF:-1 tvg-id="FOX 3 (Op.3)" tvg-name="FOX 3 HD" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/FoxSports3.png" group-title="DEPORTES",FOX 3 HD
 http://160.20.164.171:8001/play/a056/index.m3u8
 
 ####  SPORT KLUB  ###################################################################################################################################################
@@ -301,6 +317,9 @@ http://94.102.56.100:80/kralkerim/8TKLyJivVEA/161949
 
 
 ####  MIX  ##########################################################################################################################################################
+
+#EXTINF:-1 tvg-id="GOL PERU (Op.1)" tvg-name="GOL PERU HD (PER)" tvg-logo="https://raw.githubusercontent.com/dikerixxl/logo/main/GolPeru.png" group-title="DEPORTES",GOL PERU HD (PER)
+http://181.65.154.170:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="DEPORTES OTROS IDIOMAS",TENNIS CHANNEL HD
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
